@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;500;700;900&display=swap');
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h2,h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #363958;
+}
+h2{
+    font-size: 2em;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.orange-highlight{
+    color: #FABE4C ;
+}
+.hero-section{
+    background-color: #FFFBF0;
+}
+.banner-heading{
+    font-size: 5em;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom ,  #A4BC46 , #85A019);
+    color: white;
+    font-size: .85em;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 3% 6.5%;
+    border: none;
+    border-radius: .5em;
+}
+.card-box{
+    border-radius: 1em;
+    background-color: none;
+}
+.card-box-footer{
+    background-color: rgba(0, 0, 0, 0%) !important;
+    border-radius: 1em;
+}
+.img-div{
+    border-radius: 1em;
+    max-height: 100%;
+}
+.img-div img{
+    height: 100%;
+    width: auto;
+}
+.feature-img-wrapper{
+    width: 6.5em ; 
+    height: 6.5em;
+    margin: 0 auto;
+}
+.feature-righthalf-img{
+    display: flex;
+    align-items: center;
+}
+.border-radius{
+    border-radius: 1em;
+}
